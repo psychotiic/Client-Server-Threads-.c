@@ -1,0 +1,8 @@
+Author: David White
+Date: 3/11/14
+Program Name: Threaded Message Queue
+
+About:
+This program uses a signle message queue that is control by threads.  Each time a new messgage is to be displayed a thread join is called.
+The message is then passed the the thread the the thread controls the output and printing to the xml file.  There are no 
+known errors to report at this time.  The xml outout can be found the outputLog.xml.
